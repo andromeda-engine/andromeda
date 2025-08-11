@@ -1,0 +1,22 @@
+[book]
+authors = ["Romeda Labs"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Andromeda Engine"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+smart-punctuation = true
+mathjax-support = false
+copy-fonts = true
+additional-css = []
+additional-js = []
+no-section-label = false
+git-repository-url = "https://github.com/andromeda-engine/andromeda"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/andromeda-engine/andromeda/edit/main/docs/{path}"
+site-url = "/andromeda/"
+# cname = "myproject.rs"
+# input-404 = "not-found.md"
